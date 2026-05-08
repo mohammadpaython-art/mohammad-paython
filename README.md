@@ -7,7 +7,7 @@
 <div align="center">
   <h1>👋 Hi, I'm mohammad paknahad</h1>
   <h3>🚀  programer from Iran</h3>
-  <h2>Hello, I am Mohammad Pak-Nohad, a 15-year-old Iranian teenager from Shiraz who now lives in Tehran. I found my way at the age of 9 and that's when I started programming. At the age of 12, I was able to rank in the Iranian national competitions and register the title of the best project of the year in the Kharazmi competition for myself. At the age of 13, I started my own professional projects and now I am fluent in the programming languages ​​html, css, javascript, python, php, mysql, Java. I am currently a student of artificial intelligence and I plan to register my artificial intelligence in the not too distant future and win first place in the xprize ai for earth competition.</h2>
+  <h2>Hello, I am Mohammad paknahad, a 15-year-old Iranian teenager from Shiraz who now lives in Tehran. I found my way at the age of 9 and that's when I started programming. At the age of 12, I was able to rank in the Iranian national competitions and register the title of the best project of the year in the Kharazmi competition for myself. At the age of 13, I started my own professional projects and now I am fluent in the programming languages ​​html, css, javascript, python, php, mysql, Java. I am currently a student of artificial intelligence and I plan to register my artificial intelligence in the not too distant future and win first place in the xprize ai for earth competition.</h2>
 </div>
 
 <br/>
