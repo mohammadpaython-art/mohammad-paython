@@ -83,7 +83,7 @@
 ![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge&logo=regex&logoColor=white)
 ![paython](style=for-the-badge&logo=zustand&logoColor=white)
 ![php](style=for-the-badge&logo=zustand&logoColor=white)
-![mysql](style=for-the-badge&logo=zustand&logoColor=white)
+![mysql](&logoColor=white)
 </div>
 
 <br/>
